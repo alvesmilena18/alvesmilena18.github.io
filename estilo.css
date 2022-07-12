@@ -1,0 +1,185 @@
+html, body {
+    margin: 0%;
+}
+
+#imagem_fundo {
+    background: url("img/logo.jpg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+    width: 100%;
+}
+
+#titulo {
+    color: rgb(255, 255, 255);
+    padding-top: 10%;
+    font-size: 40px;
+    line-height: 1;
+    text-shadow: rgb(0, 255, 115);
+    letter-spacing: 10px;
+
+}
+
+#subtitulo {
+    color:white;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 30px;
+    align="center" width="80%";
+}
+
+#acao {
+    color:rgb(4, 53, 158);
+    border: 1px rgb(123, 186, 228) solid;
+    padding: 10px 20px 10px 10px;
+    border-radius: 80px;
+    font-size: 20px;
+    text-decoration: initial;
+
+
+}
+
+
+.coluna {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    text-align: left;
+
+}
+
+
+
+.tres {
+    width: 29%;
+    padding: 0 2%;
+    
+
+}
+
+.centralizado {
+    text-align: center;
+    font-size: right;
+    font-size: 15;
+}
+
+.Curiosidades {
+    background-color: 0077b6;
+    -text-align: right;
+    font-size:  inherit;
+    font-size: 15;
+    text-align: left;
+    
+}
+
+
+section {
+    padding: 20px;
+    float: left;
+    width: ;
+}
+
+#selecao {
+    background-color: burlywood ;
+    text-align: center;
+}
+
+
+.imgeco {
+    width: 445px;
+    height: 260px;
+    padding: 20px;
+    padding-left: 50px;
+
+}
+
+#logo {
+    width: 50px;
+    position: absolute;
+    top: 5px;
+    margin-left: 3px;
+}
+
+#logodiv {
+    width: 2%;
+    position: relative;
+    text-align: center;
+    padding: 2px;
+}
+
+#menu {
+    float: right;
+    margin-right: 5%;
+    list-style: none;
+    margin-top: 0px;
+}
+
+li{
+    float: left;
+    padding: 20 10 20 10;
+}
+
+li:hover {
+    background-color: #01aaea;
+    font-size: inherit;
+    font: bold;
+}
+
+header {
+    background-color: #4682B4;
+    color:#ADD8E6;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+
+footer {
+    background-color: rgb(43, 168, 226);
+    float: right;
+    text-align: center;
+    width: 70%;
+    font-size: initial;
+}
+
+
+.destaque {
+    background-color: 0096c7;
+}
+
+.dois {
+    width: 40%;
+    text-align: right;
+    
+}
+
+#sobre {
+    text-align: center;
+    background-color: 0077b6;
+    width: 98%;
+
+}
+
+.quatro {
+    text-align: center;
+    font-size: initial;
+    
+      
+}
+
+.cinco {
+    text-align: center;
+    font-size: initial;
+    
+    
+}
+
+#jogo {
+    background-color: 0096c7;
+    width: 98%;
+    text-align: center;
+    font-size: initial;
+    
+    
+}
+    
